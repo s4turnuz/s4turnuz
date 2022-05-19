@@ -12,8 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
 </div>
-<img align="right" src="https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVk5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--60bf532c23fa1b8ddfe7532708bcd0d909406477/MkhYjXB.gif?locale=en" width="160" height="100"></img>
-<div align="left"> 
+
 <h6>I'm constantly learning:</h6>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
