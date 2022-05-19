@@ -1,6 +1,6 @@
 ## Hello! Welcome to my Github profile 👋
 
-<p>💬 My name is Douglas. I'm a software engineering student at UTFPR, and and currently an software trainee at Programmer's Beyond It. I'm a technology enthusiast, always looking to get to places I've never been before. 🔭</p>
+<p>💬 My name is Douglas. I'm a software engineering student at UTFPR, and currently an software trainee at Programmer's Beyond It. I'm a technology enthusiast, always looking to get to places I've never been before. 🔭</p>
 
 <div align="left">
 <h6>Tools and technologies:</h6>
