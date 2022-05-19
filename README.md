@@ -1,15 +1,5 @@
 ## Hello! Welcome to my Github profile 👋
 
-<!-- Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p>💬 My name is Douglas. I'm a software engineering student at UTFPR, and and currently an software trainee at Programmer's Beyond It. I'm a technology enthusiast, always looking to get to places I've never been before. 🔭</p>
 
 <div align="left">
@@ -48,9 +38,9 @@
 ##
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4turnuz&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=s4turnuz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/s4turnuz">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4turnuz&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=s4turnuz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
 ![Snake animation](https://github.com/s4turnuz/s4turnuz/blob/output/github-contribution-grid-snake.svg)
